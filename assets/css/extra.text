@@ -40,3 +40,232 @@
         </div>
     </section> -->
 
+
+
+
+     <!-- hero -->
+    <!-- <section #="hero" style="background:linear-gradient(rgba(0, 0, 0,0.439), rgba(0, 0, 0, 0.337)),url('./assets/images/bakkies-c.png') no-repeat center/ cover;"> -->
+
+    <section >
+          <!-- welcome -->
+        <!-- <div class="info">
+          <h1>Alin Elfen Electrical Enterprises | Welcome!</h1>
+        </div> -->
+          
+          <!-- title -->
+          <div class="title">
+            <div class="left-side">
+              <h2>GET IN TOUCH</h2>
+            </div>
+            <div class="right-side">
+              <p><span>Lorem ipsum</span> dolor sit amet, consectetur adipisicing elit. Quas iure nulla quasi nesciunt consequatur nihil debitis nostrum at expedita, odio.</p>
+            </div>
+          </div>
+            <!-- left-side -->
+          <div class="container">
+            <div class="left-side">
+              <div class="item">
+                <h3>EMAIL</h3>
+                <a href="">information@untitled.ext</a>
+              </div>
+              <div class="item">
+                <h3>PHONE</h3>
+                <a href="">(000) 000-0000</a>
+              </div>
+              <div class="item">
+                <h3>ADDRESS</h3>
+                <span>123 Somewhere Road, Nashville, TN 000</span>
+              </div>
+              <div class="item">
+                <h3>ELSEWHERE</h3>
+                <div class="icons">
+                  <!-- <a href="" class = "fa fa-twitter"></a> -->
+                  <a href="" class = "fa fa-instagram"></a>
+                  <a href="" class = "fa fa-facebook"></a>
+                  <!-- <a href="" class = "fa fa-whatsapp"></a>
+                  <a href="" class = "fa fa-codepen"></a>
+                  <a href="" class = "fa fa-github"></a> -->
+                </div>
+              </div>
+            </div>
+
+            <!-- right-side -->
+            <div class="right-side">
+              <!-- form -->
+              <form action="" method = "post">
+                <div class="top">
+                  <input type="text" placeholder="Name">
+                  <input type="text" placeholder="Email">
+                </div>
+                <textarea name="name"placeholder="Message"></textarea>
+                <button type = "submit">SEND MESSAGE</button>
+              </form>
+            </div>
+          </div>
+        
+      
+    </section>
+
+
+
+    <!-- left-side -->
+          <div class="container">
+            <div class="contactInfo">
+              <!-- box-1 -->
+              <div class="box">
+                <h3>EMAIL</h3>
+                <a href="">pieter@chrema.co.za</a>
+              </div>
+              <div class="icon">
+                  <i class = "fas fa-envelope-open-text"></i>
+                </div>
+                <!-- box-2 -->
+              <div class="box">
+                <h3>PHONE</h3>
+                <a href="">(+27) 853-1985 / +2782-578-4900</a>
+              </div>
+              <div class="icon">
+                  <i class = "fas fa-phone"></i>
+                </div>
+                <!-- box-3 -->
+              <div class="box">
+                <h3>ADDRESS</h3>
+                <p>31 Moira Street, Heuningklip, Krugersdorp</p>
+                <div class="icon">
+                  <i class = "fas fa-map-marker-alt"></i>
+                </div>
+              </div>
+            </div>
+
+
+
+            
+            <h2>Send Message</h2>
+            <div class="inputBox">
+              <input type="text" name = "" required = "required">
+              <span>Full Name</span>
+            </div>
+            <div class="inputBox">
+              <input type="email" name = "" required = "required">
+              <span>Email</span>
+            </div>
+            <div class="inputBox">
+              <textarea name="" required = "required"></textarea>
+              <span>Type Your Message</span>
+            </div>
+            <div class="inputBox">
+              <input type="submit"name="" value="send" >
+            </div>
+          </form>
+
+
+
+ <div class="wrapper-grid">
+          <!-- container-1 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <h1 class="name">Anna Marie</h1>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+            <!-- container-2 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <h1 class="name">Anna Marie</h1>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+            <!-- container-3 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <h1 class="name">Anna Marie</h1>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+             <!-- container-4 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <h1 class="name">Anna Marie</h1>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+            <!-- container-5 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <p class="name">Anna Marie</p>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+            <!-- container-6 -->
+          <div class="container">
+            <div class='banner-img'>
+              <img src='https://images.unsplash.com/photo-1444011283387-7b0f76371f12?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt='profile image' class="profile-img">
+            </div>
+            <p class="name">Anna Marie</p>
+            <p class="description">Hi there! My name is Anna and I am a book lover, traveler and professional blogger. Follow me to stay connected!</p>
+            <button class='btn'>Follow</button>
+          </div>
+
+
+
+.wrapper-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 20rem);
+  justify-content: center;
+}
+
+.container {
+  overflow: hidden;
+  box-shadow: 0px 2px 8px 0px var(--clr-gray-light);
+  background-color: white;
+  text-align: center;
+  border-radius: 1rem;
+  position: relative;
+  margin: 0.5rem;
+}
+
+.banner-img {
+  position: absolute;
+  background-image: url(https://images.unsplash.com/photo-1582727657635-c771002bdada?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ);
+  height: 10rem;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile-img {
+  width: 8rem;
+  clip-path: circle(60px at center);
+  margin-top: 4.5rem;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.description {
+  margin: 1rem 2rem;
+  font-size: 0.9rem;
+}
+
+.btn {
+  width: 100%;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  padding: 1rem;
+  background-color: var(--clr-primary);
+}
