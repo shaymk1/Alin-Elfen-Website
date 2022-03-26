@@ -81,6 +81,7 @@
 .contactForm .top input {
   width: 45%;
   font-size: 20px;
+  color: var(--primary-color);
   padding: 10px;
   border: 2px solid var(--tertiary-color);
   outline-color: var(--alternative-color);
@@ -90,9 +91,11 @@
 .contactForm  textarea {
   width: 100%;
   font-size: 20px;
+  color: var(--primary-color);
   height: 100px;
   padding: 10px;
   border: 2px solid var(--tertiary-color);
+  outline-color: var(--alternative-color);
   border-radius: 5px;
   margin-bottom: 30px;
   resize: none;
@@ -107,6 +110,14 @@
   border-radius: 5px;
   font-weight: 600;
   cursor: pointer;
+  transition: background-color 0.2s ease-out,
+  color 0.2s ease-out;
+}
+
+.contactForm button:hover{
+  transition: background-color 0.3s ease-in;
+  background-color: var(--bg-color);
+  color: var(--hover-color-2);
 }
 
 

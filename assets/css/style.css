@@ -125,6 +125,7 @@ body {
   text-align: center;
   outline: none;
   text-decoration: none;
+  cursor: pointer;
   transition: background-color 0.2s ease-out,
     color 0.2s ease-out;
 }
@@ -134,7 +135,7 @@ body {
   background-color: var(--bg-color);
   color: var(--hover-color-2);
   transition: background-color 0.3s ease-in,
-    color 0.3s ease-in
+    color 0.3s ease-in;
 }
 
 /* footer */
